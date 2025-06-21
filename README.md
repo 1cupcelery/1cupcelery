@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shenyu Qin 👋
 
-<!--
-**1cupcelery/1cupcelery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student at Shanghai Jiao Tong University, majoring in Computer Science.  
+🔬 I will be an undergraduate research intern at DIMACS, Rutgers University, in the second half of this year.  
+🧠 My research interests include **online algorithms** and **algorithmic game theory**.  
+💡 I'm also exploring **graph theory**.
 
-Here are some ideas to get you started:
+## 🌱 I'm open to
+- Research collaborations in Theoretical Computer Science.
+- Graduate study opportunities in related fields (starting Fall 2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Personal Website: [https://1cupcelery.github.io/](https://1cupcelery.github.io/)
+- Email: celery2022 [at] sjtu.edu.cn / qinshenyu29 [at] gmail.com
+
+## 📊 GitHub Stats
+![Shenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=1cupcelery&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cupcelery&layout=compact)
+
